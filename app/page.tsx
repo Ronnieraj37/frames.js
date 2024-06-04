@@ -18,7 +18,7 @@ export default function Page() {
 
   const frameState = useFrame({
     // replace with your frame url
-    homeframeUrl: "https://far.quest/contracts/degen/untitled-5659-2",
+    homeframeUrl: "https://fc-polls.vercel.app/polls/73c6efda-bae7-4d46-8f36-3bb3b8377448",
     // corresponds to the name of the route for POST in step 3
     frameActionProxy: "/frames",
     connectedAddress: undefined,
